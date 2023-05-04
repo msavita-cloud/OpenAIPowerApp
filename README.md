@@ -5,7 +5,7 @@ Let's build a Power App to use Azure Open AI for Improve Productivity
 
 <b>What's needed</b>
 
-Azure Open AI
+<b>Azure Open AI</b>
 
 1. Register for Azure Open AI - https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview
 2. Once got approved create Azure Open AI resource in Azure portal.
@@ -19,7 +19,8 @@ https://portal.azure.com/#create/Microsoft.CognitiveServicesComputerVision
 Speech Service (For Speech Extraction)
 https://portal.azure.com/#create/Microsoft.CognitiveServicesSpeechServices
 
-
+Video Indexer (Extract insights from Video)
+https://learn.microsoft.com/en-us/azure/azure-video-indexer/video-indexer-get-started
 
 <b>Import PowerApp</b>
 1. Download .zip file from repository
