@@ -36,8 +36,9 @@ https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/export-import-app
 <li>Get accesstoken from Azure Video Indexer at Portal.Azure.com</li>
 
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/aea11849-995b-4ca8-baee-555875ed53e7)
+Update accesstoken in powerautomate
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/d8e2d9b1-e429-4f4e-8aa3-a79b63033287)
-<BR>
+<BR><BR><BR>
 2. Computer Vision - OpenAIPDFExtraction
  <li>Go to Flow.microsoft.com</li>
 <li>Edit <b>OpenAIPDFExtraction</b></li>
@@ -45,6 +46,6 @@ https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/export-import-app
 
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/9335a201-70e0-45df-8597-d6bbbfd15073)
 Update http url and key in powerautomate
-![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/5999ccb8-6469-495f-ba6c-ee598caba8fd)
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/200438e3-5426-495c-9a13-aac766fbaaae)
 
 4. Speech - OpenAIAudioToText
