@@ -26,3 +26,26 @@ https://learn.microsoft.com/en-us/azure/azure-video-indexer/video-indexer-get-st
 1. Download .zip file from repository
 2. Import package in PowerApps
 https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/export-import-app#importing-a-canvas-app-package
+
+<b>Update all the endPoints in PowerAutomate </b>
+
+  1. Video Indexer - OpenAIVideoToText
+
+  <li>Go to Flow.microsoft.com</li>
+<li>Edit <b>OpenAIVideoToText</b></li>
+<li>Get accesstoken from Azure Video Indexer at Portal.Azure.com</li>
+
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/aea11849-995b-4ca8-baee-555875ed53e7)
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/d8e2d9b1-e429-4f4e-8aa3-a79b63033287)
+
+2. Computer Vision - OpenAIPDFExtraction
+ <li>Go to Flow.microsoft.com</li>
+<li>Edit <b>OpenAIPDFExtraction</b></li>
+<li>Get keys and endpoint from computer vision in Portal.Azure.com</li>
+
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/9335a201-70e0-45df-8597-d6bbbfd15073)
+Update http url and key in powerautomate
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/86a4609b-f49d-4b66-b9af-4a8b6d4878b8)
+
+
+4. Speech - OpenAIAudioToText
