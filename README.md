@@ -37,7 +37,7 @@ https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/export-import-app
 
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/aea11849-995b-4ca8-baee-555875ed53e7)
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/d8e2d9b1-e429-4f4e-8aa3-a79b63033287)
-
+<BR>
 2. Computer Vision - OpenAIPDFExtraction
  <li>Go to Flow.microsoft.com</li>
 <li>Edit <b>OpenAIPDFExtraction</b></li>
@@ -45,7 +45,6 @@ https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/export-import-app
 
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/9335a201-70e0-45df-8597-d6bbbfd15073)
 Update http url and key in powerautomate
-![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/86a4609b-f49d-4b66-b9af-4a8b6d4878b8)
-
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/5999ccb8-6469-495f-ba6c-ee598caba8fd)
 
 4. Speech - OpenAIAudioToText
