@@ -48,4 +48,11 @@ Update accesstoken in powerautomate
 Update http url and key in powerautomate
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/200438e3-5426-495c-9a13-aac766fbaaae)
 
-4. Speech - OpenAIAudioToText
+3. Speech - OpenAIAudioToText
+ <li>Go to Flow.microsoft.com</li>
+<li>Edit <b>OpenAudioToText</b></li>
+<li>Get keys and endpoint from Speech in Portal.Azure.com</li>
+
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/82c54481-4eaa-4698-b7e3-498fe962e674)
+Update http url and key in powerautomate
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/65514fb4-926e-442e-8847-40acd029da78)
