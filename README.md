@@ -2,7 +2,7 @@
 
 This application demonstrates the exceptional capabilities of Azure AI Cognitive Services in extracting data from various unstructured file formats. Additionally, it provides insights on how OpenAI can be seamlessly integrated into workflows to develop valuable applications. By utilizing interactive demos and features, users can explore the impressive capabilities of OpenAI's machine learning and natural language processing. The OpenAI large language model (LLM) enables quick comprehension and analysis of unstructured data such as audio files, PDFs, and videos. Leveraging Azure Cognitive Services and the Power Platform, organizations can automate processes for improved handling of inquiries, feedback, and conversations, thus empowering their operations.
 
-<b>This application is built on PowerPlatform and used all http endpoints to connect to Azure Services.
+<b>This application is built on PowerPlatform and used Azure AI & Open AI http endpoints via PowerAutomate to connect to Azure Services.
 
 ![image](https://github.com/msavita-cloud/azure-openai-samples/assets/65045244/2ca0f7c8-f900-4785-ada7-77b7345f3748)</b><BR>
 
