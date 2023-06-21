@@ -8,5 +8,5 @@ They have admin access to the repo and provide support reviewing issues and pull
 - **[Savita Mittal | msavita-cloud](https://github.com/msavita-cloud)**
    - solution_accelerators:
       - [Open AI PowerApp](./solution_accelerators/PowerApp/)
-     - [LinkedIN](https://www.linkedin.com/in/savitamittal/)
+     - [LinkedIn](https://www.linkedin.com/in/savitamittal/)
 
