@@ -1,10 +1,17 @@
 # OpenAI PowerApp
-This demo explains how Azure AI Cognitive services can be used to extract the data from various file formats and how the workflow can be created to leverage OpenAI for various common scenarios. 
 
-Let's build a Power App to use Azure Open AI to Improve Productivity
+This application showcases the remarkable capabilities of Azure AI Cognitive Services in extracting data from diverse unstructured file formats. Also learn how OpenAI can be seamlessly integrated into workflows to create useful applications. Through interactive demos and features, you can experience the impressive capabilities of OpenAI's machine learning and natural language processing. Use OpenAI's large llanguage model (LLM) to quickly understand and analyze unstructured data like audio files, PDFs, and videos. With Azure Cognitive Services and the Power Platform, you can automate processes to handle inquiries, feedback, and conversations more efficiently, empowering your organization.
+This application showcases the remarkable capabilities of Azure AI Cognitive Services in extracting data from diverse unstructured file formats. Also learn how OpenAI can be seamlessly integrated into workflows to create useful applications. 
 
-<b>What's needed</b>
+Through interactive demos and features, you can experience the impressive capabilities of OpenAI's machine learning and natural language processing. Use OpenAI's large llanguage model (LLM) to quickly understand and analyze unstructured data like audio files, PDFs, and videos. With Azure Cognitive Services and the Power Platform, you can automate processes to handle inquiries, feedback, and conversations more efficiently, empowering your organization.
 
+This application is built on PowerPlatform and used all http endpoints to connect to Azure Services.
+
+![image](https://github.com/msavita-cloud/azure-openai-samples/assets/65045244/2ca0f7c8-f900-4785-ada7-77b7345f3748)
+
+Let's build a Power App to use Azure AI & Open AI to Improve Productivity
+
+<b>What's needed</b><BR>
 <b>Azure Open AI</b>
 
 1. Register for Azure Open AI - https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview
@@ -56,3 +63,7 @@ Update http url and key in powerautomate
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/82c54481-4eaa-4698-b7e3-498fe962e674)
 Update http url and key in powerautomate
 ![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/65514fb4-926e-442e-8847-40acd029da78)
+  
+  4. OpenAI - Openaigeneral, Openaisummarization-Summary
+
+![image](https://github.com/msavita-cloud/azure-openai-samples/assets/65045244/c4def313-c60b-4a57-884e-367102e2c930)
