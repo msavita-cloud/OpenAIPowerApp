@@ -4,7 +4,12 @@ This application demonstrates the exceptional capabilities of Azure AI Cognitive
 
 <b>This application is built on PowerPlatform and used Azure AI & Open AI http endpoints via PowerAutomate to connect to Azure Services.
 
-![image](https://github.com/msavita-cloud/azure-openai-samples/assets/65045244/2ca0f7c8-f900-4785-ada7-77b7345f3748)</b><BR>
+App Landing Page: ![image](https://github.com/msavita-cloud/azure-openai-samples/assets/65045244/2ca0f7c8-f900-4785-ada7-77b7345f3748)</b><BR>
+
+<b>PDF Extraction and Ask Questions from extracted text:</b><BR><BR>
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/04b03163-b18c-47b7-9b3c-1e4e55ca1db8)<BR><BR>
+<b>Video Insights Extraction and Ask Questions from extracted text:</b><BR><BR>
+![image](https://github.com/msavita-cloud/OpenAIPowerApp/assets/65045244/85526861-59c6-4bc8-9509-a28487af71c6)
 
 Let's build a Power App to use Azure AI & Open AI to Improve Productivity
 
