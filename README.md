@@ -1,13 +1,13 @@
 # OpenAI PowerApp
 
-This application showcases the remarkable capabilities of Azure AI Cognitive Services in extracting data from diverse unstructured file formats. Also learn how OpenAI can be seamlessly integrated into workflows to create useful applications. Through interactive demos and features, you can experience the impressive capabilities of OpenAI's machine learning and natural language processing. Use OpenAI's large llanguage model (LLM) to quickly understand and analyze unstructured data like audio files, PDFs, and videos. With Azure Cognitive Services and the Power Platform, you can automate processes to handle inquiries, feedback, and conversations more efficiently, empowering your organization.
+This application showcases the remarkable capabilities of Azure AI Cognitive Services in extracting data from diverse unstructured file formats. Also learn how OpenAI can be seamlessly integrated into workflows to create useful applications. Through interactive demos and features, you can experience the impressive capabilities of OpenAI's machine learning and natural language processing. Use OpenAI's large language model (LLM) to quickly understand and analyze unstructured data like audio files, PDFs, and videos. With Azure Cognitive Services and the Power Platform, you can automate processes to handle inquiries, feedback, and conversations more efficiently, empowering your organization.
 This application showcases the remarkable capabilities of Azure AI Cognitive Services in extracting data from diverse unstructured file formats. Also learn how OpenAI can be seamlessly integrated into workflows to create useful applications. 
 
 Through interactive demos and features, you can experience the impressive capabilities of OpenAI's machine learning and natural language processing. Use OpenAI's large llanguage model (LLM) to quickly understand and analyze unstructured data like audio files, PDFs, and videos. With Azure Cognitive Services and the Power Platform, you can automate processes to handle inquiries, feedback, and conversations more efficiently, empowering your organization.
 
-This application is built on PowerPlatform and used all http endpoints to connect to Azure Services.
+<b>This application is built on PowerPlatform and used all http endpoints to connect to Azure Services.
 
-![image](https://github.com/msavita-cloud/azure-openai-samples/assets/65045244/2ca0f7c8-f900-4785-ada7-77b7345f3748)
+![image](https://github.com/msavita-cloud/azure-openai-samples/assets/65045244/2ca0f7c8-f900-4785-ada7-77b7345f3748)</b><BR>
 
 Let's build a Power App to use Azure AI & Open AI to Improve Productivity
 
